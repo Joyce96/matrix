@@ -1,0 +1,7 @@
+[0309/091852.232:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0310/163129.932:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0310/163129.936:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0310/163129.936:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0310/163129.960:ERROR:exception_snapshot_win.cc(98)] thread ID 22772 not found in process
+[0310/163130.008:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0310/163130.008:ERROR:exception_snapshot_win.cc(98)] thread ID 7960 not found in process
